@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family:fantasy;
+}
+
+body{
+  background-color: #282c34;
+}
+
+#hero{
+  width: 100%;
+  height:100vh ;
+  background-image: url('https://images.unsplash.com/photo-1686638479195-b6b9a09008b8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8RnpvM3p1T0hONnd8fGVufDB8fHx8fA%3D%3D');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top:32px ;
+}
+
+.container-full{
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+
+.hero-box .hero-heading{
+  color: white;
+  line-height: 65px;
+}
+
+.hero-box .hero-desc{
+  color: white;
+  line-height: 27px;
+  padding: 30px 0;
+}
