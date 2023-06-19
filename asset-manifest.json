@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ayano2304/HeroPage/static/css/main.6424879a.css",
+    "main.js": "/Ayano2304/HeroPage/static/js/main.a65879da.js",
+    "static/js/787.c593b322.chunk.js": "/Ayano2304/HeroPage/static/js/787.c593b322.chunk.js",
+    "index.html": "/Ayano2304/HeroPage/index.html",
+    "main.6424879a.css.map": "/Ayano2304/HeroPage/static/css/main.6424879a.css.map",
+    "main.a65879da.js.map": "/Ayano2304/HeroPage/static/js/main.a65879da.js.map",
+    "787.c593b322.chunk.js.map": "/Ayano2304/HeroPage/static/js/787.c593b322.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6424879a.css",
+    "static/js/main.a65879da.js"
+  ]
+}
